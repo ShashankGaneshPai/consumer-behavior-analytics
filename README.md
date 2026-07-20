@@ -243,7 +243,7 @@ Open the `.pbix` file using **Power BI Desktop** and refresh the data source if 
 **Shashank Pai**
 
 - GitHub: https://github.com/ShashankGaneshPai
-- LinkedIn: https://www.linkedin.com/in/shashank-ganesh-pai-5897b6335/
+- LinkedIn:https: //www.linkedin.com/in/shashank-ganesh-pai/
 
 ---
 
